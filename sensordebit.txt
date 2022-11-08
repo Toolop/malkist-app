@@ -1,3 +1,4 @@
-wifi
+wifi mmanager
 pembacaan
+heartbeat
 kalibrasi
